@@ -12,7 +12,7 @@
 ### 部署步骤
 
 1. **克隆或下载代码库**：
-   - 使用Git克隆代码库：`git clone https://github.com/your-username/your-repo-name.git`
+   - 使用Git克隆代码库：`git clone https://github.com/Love-Megumin/Cloudflare-shit-code.git`
    - 或者直接下载ZIP文件并解压。
 
 2. **复制`shit.js`内容**：
